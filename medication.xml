@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><medication>
+	<med>
+		<idMed>1</idMed>
+		<name>Nurofen</name>
+		<ingredients>Ibuprofen</ingredients>
+		<manufacturer>MedFarma</manufacturer>
+		<price>12.00</price>
+		<quantity>43</quantity>
+	</med>
+	
+	<med>
+		<idMed>2</idMed>
+		<name>Xyzal</name>
+		<ingredients>Levocetirizine dihydrochloride</ingredients>
+		<manufacturer>Europharm</manufacturer>
+		<price>43.50</price>
+		<quantity>25</quantity>
+	</med>
+	
+	<med>
+		<idMed>3</idMed>
+		<name>Imunoprotect</name>
+		<ingredients>Vitamin E, Selenium</ingredients>
+		<manufacturer>Doopelherz</manufacturer>
+		<price>63.21</price>
+		<quantity>10</quantity>
+	</med>
+	
+<med><idMed>4</idMed><name>Claritine</name><ingredients>Antihistaminics</ingredients><manufacturer>Pharma</manufacturer><price>23.22</price><quantity>0</quantity></med></medication>

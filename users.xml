@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+	<user>
+		<idUser>1</idUser>
+		<name>Pop Julia</name>
+		<username>julia</username>
+		<password>parola</password>
+		<type>admin</type>
+	</user>
+
+<user><idUser>2</idUser><name>Blaga Madalina</name><username>mada</username><password>12345</password><type>user</type></user><user><idUser>3</idUser><name>Pop Paul</name><username>paull</username><password>parola123</password><type>user</type></user><user><idUser>4</idUser><name>Pop Caria</name><username>carina</username><password>12345</password><type>user</type></user></users>
